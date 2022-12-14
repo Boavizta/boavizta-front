@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.idea
+
+pnpm-lock.yaml
+yarn-error.log
+.pnpm-debug.log
+/.vscode
