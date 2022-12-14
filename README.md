@@ -1,4 +1,4 @@
-# Boavizta-front
+# Datavizta
 
 ## Data Explorer
 
@@ -7,7 +7,7 @@ This educational frontend intends to achieve several complementary objectives:
 - Being able to visualize the impacts repartition by stages of the life cycle of equipment by differentiating the use phase (scope 2) from the manufacturing, transport and end-of-life phases (scope 3)
 - Being able to assess the impacts of extending the life of the product or using it in one geographical area rather than another.
 
-You can try it on https://dataviz.boavizta.org
+You can try it on https://datavizta.boavizta.org
 
 ### Developing
 
